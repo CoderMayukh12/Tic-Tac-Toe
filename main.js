@@ -1,4 +1,3 @@
-//DIDN'T UNDERSTOOD THE CODE
 var playerTurn, moves, isGameOver, span, restartButton;
 playerTurn = "x";
 moves = 0;
